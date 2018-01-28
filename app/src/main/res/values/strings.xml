@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Crypto Price</string>
+    <string name="label_default_text">N\\A</string>
+    <string name="label_error_text">Error</string>
+    <string name="base">Выбранная валюта</string>
+    <string name="ask">К</string>
+    <string name="bid">П</string>
+    <string name="tip_for_a">К - купля</string>
+    <string name="tip_for_b">П - продажа</string>
+    <string name="imageview_desc">Cryptocurrency Logo</string>
+    <string name="btc_name">Bitcoin</string>
+    <string name="eth_name">Ethereum</string>
+    <string name="ltc_name">Litecoin</string>
+    <string name="for_current_time">На </string>
+    <string name="public_key">OTkwZTdlMTAwMmU3NGNmNmJjNjhjMTc2YTc0NDIyMTM</string>
+    <string name="secret_key">Y2I3YWQ2YzFmMmU1NDQ0OWE1MjZiOTMzMWJkNjY0ZmQyMjljZWExYzhiZmY0MTg1YWY2MzU0Zjk5ZGExYzIzZA</string>
+
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+
+</resources>
